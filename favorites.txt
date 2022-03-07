@@ -2,3 +2,7 @@ maggi
 pizza
 dosa
 burger
+rolls
+samosa
+panipuri
+chips
